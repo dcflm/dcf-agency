@@ -1,0 +1,18 @@
+  ~/Desktop/gitPort/agency
+   node_modules
+   public
+   src
+  └  app
+    │  favicon.ico
+    │  globals.css
+    │  layout.tsx
+    └  page.tsx           󰌵 
+   README.md
+   next-env.d.ts
+   next.config.js
+   package-lock.json
+   package.json
+   postcss.config.js
+   tailwind.config.ts
+   tsconfig.json
+  (2 hidden items)
